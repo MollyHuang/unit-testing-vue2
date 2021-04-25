@@ -1,4 +1,4 @@
-# unit-testing-vue
+# Unit Testing Vue 2
 
 https://www.vuemastery.com/courses/unit-testing/
 
