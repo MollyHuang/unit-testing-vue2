@@ -1,5 +1,7 @@
 # unit-testing-vue
 
+https://www.vuemastery.com/courses/unit-testing/
+
 ## Project setup
 ```
 npm install
